@@ -1,181 +1,189 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_TV_HD.png" group-title="ASIA",SUN TV HD
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_TV_HD.png" group-title="ASIA",SUN TV HD
 http://192.168.1.38:5001/live/896.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/KTV_HD.png" group-title="ASIA",KTV HD
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/KTV_HD.png" group-title="ASIA",KTV HD
 http://192.168.1.38:5001/live/894.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASIA",STAR VIJAY-OPPLEX
-http://opplex.tv:8080/tasin7879/tasin7880/380952
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASIA",VIJAY SUPER - OPPLEX
-http://opplex.tv:8080/tasin7879/tasin7880/380969
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASIA",ZEE TAMIL - OPPLEX
-http://opplex.tv:8080/tasin7879/tasin7880/380970
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASIA",ZEE THIRAI- OPPLEX
+#EXTINF:-1 group-title="ASIA",STAR VIJAY
+http://b1g.uk:80/191/191/161847
+#EXTINF:-1 group-title="ASIA",VIJAY SUPER
+http://b1g.uk:80/191/191/164443
+#EXTINF:-1 group-title="ASIA",ZEE TAMIL HD
+http://b1g.uk:80/191/191/164442
+#EXTINF:-1 group-title="ASIA",ZEE THIRAI- OPPLEX
 http://opplex.tv:8080/tasin7879/tasin7880/380984
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/J_Movies.png" group-title="MOVIES",J MOVIES
+#EXTINF:-1 group-title="ASIA",VIJAY TAKKAR
+http://b1g.uk:80/191/191/865933
+#EXTINF:-1 group-title="ASIA",STAR VIJAY HD
+http://b1g.uk:80/191/191/8536
+#EXTINF:-1 group-title="ASIA",VIJAY TV
+http://b1g.uk:80/191/191/791602
+#EXTINF:-1 group-title="ASIA",ZEE TAMIL
+http://b1g.uk:80/191/191/789746
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/J_Movies.png" group-title="MOVIES",J MOVIES
 http://192.168.1.38:5001/live/417.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_Life.png" group-title="MOVIES",SUN LIFE
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_Life.png" group-title="MOVIES",SUN LIFE
 http://192.168.1.38:5001/live/682.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Raj_Digital_Plus.png" group-title="MOVIES",RAJ DIGITAL PLUS
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Raj_Digital_Plus.png" group-title="MOVIES",RAJ DIGITAL PLUS
 http://192.168.1.38:5001/live/683.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Jaya_Max.png" group-title="MUSIC",JAYA MAX
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Jaya_Max.png" group-title="MUSIC",JAYA MAX
 http://192.168.1.38:5001/live/420.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Raj_Musix.png" group-title="MUSIC",RAJ MUSIX
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Raj_Musix.png" group-title="MUSIC",RAJ MUSIX
 http://192.168.1.38:5001/live/748.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Tunes_6.png" group-title="MUSIC",TUNES 6
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Tunes_6.png" group-title="MUSIC",TUNES 6
 http://192.168.1.38:5001/live/803.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/MK_Music.png" group-title="MUSIC",MK MUSIC
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/MK_Music.png" group-title="MUSIC",MK MUSIC
 http://192.168.1.38:5001/live/845.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_Music_HD.png" group-title="MUSIC",SUN MUSIC HD
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_Music_HD.png" group-title="MUSIC",SUN MUSIC HD
 http://192.168.1.38:5001/live/895.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Jaya_Plus.png" group-title="NEWS",JAYA PLUS
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Jaya_Plus.png" group-title="NEWS",JAYA PLUS
 http://192.168.1.38:5001/live/418.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU
 http://192.168.1.38:5001/live/615.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Polimer_News.png" group-title="NEWS",POLIMER NEWS
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Polimer_News.png" group-title="NEWS",POLIMER NEWS
 http://192.168.1.38:5001/live/636.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Sathiyam.png" group-title="NEWS",SATHIYAM TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Sathiyam.png" group-title="NEWS",SATHIYAM TV
 http://192.168.1.38:5001/live/671.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/News7_Tamil.png" group-title="NEWS",NEWS7 TAMIL
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/News7_Tamil.png" group-title="NEWS",NEWS7 TAMIL
 http://192.168.1.38:5001/live/673.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_News.png" group-title="NEWS",SUN NEWS
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_News.png" group-title="NEWS",SUN NEWS
 http://192.168.1.38:5001/live/676.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Puthiya_Thalimurai.png" group-title="NEWS",PUTHIYA THALIMURAI
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Puthiya_Thalimurai.png" group-title="NEWS",PUTHIYA THALIMURAI
 http://192.168.1.38:5001/live/677.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Raj_News_24x7.png" group-title="NEWS",RAJ NEWSÃÂÃÂ 24X7
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Raj_News_24x7.png" group-title="NEWS",RAJ NEWSÃÂÃÂÃÂÃÂ 24X7
 http://192.168.1.38:5001/live/767.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Malai_Murasu.png" group-title="NEWS",MALAI MURASU
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Malai_Murasu.png" group-title="NEWS",MALAI MURASU
 http://192.168.1.38:5001/live/826.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Thanthi_TV.png" group-title="NEWS",THANTHI TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Thanthi_TV.png" group-title="NEWS",THANTHI TV
 http://192.168.1.38:5001/live/830.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Madhimugam_TV.png" group-title="NEWS",MADHIMUGAM TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Madhimugam_TV.png" group-title="NEWS",MADHIMUGAM TV
 http://192.168.1.38:5001/live/843.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Win_TV.png" group-title="NEWS",WIN TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Win_TV.png" group-title="NEWS",WIN TV
 http://192.168.1.38:5001/live/970.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Kalaignar_Seithigal_.png" group-title="NEWS",KALAIGNAR SEITHIGAL
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Kalaignar_Seithigal_.png" group-title="NEWS",KALAIGNAR SEITHIGAL
 http://192.168.1.38:5001/live/1210.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/News_J.png" group-title="NEWS",NEWS J
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/News_J.png" group-title="NEWS",NEWS J
 http://192.168.1.38:5001/live/1515.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/News_Tamil_24x7.png" group-title="NEWS",NEWS TAMIL 24X7
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/News_Tamil_24x7.png" group-title="NEWS",NEWS TAMIL 24X7
 http://192.168.1.38:5001/live/1954.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Tamilan_Television.png" group-title="NEWS",TAMILAN TELEVISION
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Tamilan_Television.png" group-title="NEWS",TAMILAN TELEVISION
 http://192.168.1.38:5001/live/2958.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Velicham_Tv.png" group-title="NEWS",VELICHAM TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Velicham_Tv.png" group-title="NEWS",VELICHAM TV
 http://192.168.1.38:5001/live/3004.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Janam_Tamil.png" group-title="NEWS",TAMIL JANAM
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Janam_Tamil.png" group-title="NEWS",TAMIL JANAM
 http://192.168.1.38:5001/live/3045.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Lotus_News.png" group-title="NEWS",LOTUS NEWS
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Lotus_News.png" group-title="NEWS",LOTUS NEWS
 http://192.168.1.38:5001/live/913.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/N5TV.png" group-title="NEWS",N5TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/N5TV.png" group-title="NEWS",N5TV
 http://192.168.1.38:5001/live/1731.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Jaya_TV_HD.png" group-title="ENTERTAINMENT",JAYA TV HD
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Jaya_TV_HD.png" group-title="ENTERTAINMENT",JAYA TV HD
 http://192.168.1.38:5001/live/419.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Colors_Tamil_HD.png" group-title="ENTERTAINMENT",COLORS TAMIL HD
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Colors_Tamil_HD.png" group-title="ENTERTAINMENT",COLORS TAMIL HD
 http://192.168.1.38:5001/live/429.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Polimer_TV.png" group-title="ENTERTAINMENT",POLIMER TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Polimer_TV.png" group-title="ENTERTAINMENT",POLIMER TV
 http://192.168.1.38:5001/live/705.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
 http://192.168.1.38:5001/live/707.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Makkal_TV.png" group-title="ENTERTAINMENT",MAKKAL TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Makkal_TV.png" group-title="ENTERTAINMENT",MAKKAL TV
 http://192.168.1.38:5001/live/708.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Adithya_TV.png" group-title="ENTERTAINMENT",ADITHYA TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Adithya_TV.png" group-title="ENTERTAINMENT",ADITHYA TV
 http://192.168.1.38:5001/live/709.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Vasanth_TV.png" group-title="ENTERTAINMENT",VASANTH TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Vasanth_TV.png" group-title="ENTERTAINMENT",VASANTH TV
 http://192.168.1.38:5001/live/727.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Peppers_TV.png" group-title="ENTERTAINMENT",PEPPERS TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Peppers_TV.png" group-title="ENTERTAINMENT",PEPPERS TV
 http://192.168.1.38:5001/live/796.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Puthu_Yugam.png" group-title="ENTERTAINMENT",PUTHU YUGAM
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Puthu_Yugam.png" group-title="ENTERTAINMENT",PUTHU YUGAM
 http://192.168.1.38:5001/live/824.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/MK_TV.png" group-title="ENTERTAINMENT",MK TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/MK_TV.png" group-title="ENTERTAINMENT",MK TV
 http://192.168.1.38:5001/live/847.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Vendhar_TV.png" group-title="ENTERTAINMENT",VENDHAR TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Vendhar_TV.png" group-title="ENTERTAINMENT",VENDHAR TV
 http://192.168.1.38:5001/live/857.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Vaanavil_TV.png" group-title="ENTERTAINMENT",VAANAVIL TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Vaanavil_TV.png" group-title="ENTERTAINMENT",VAANAVIL TV
 http://192.168.1.38:5001/live/971.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Kalaignar_TV.png" group-title="ENTERTAINMENT",KALAIGNAR TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Kalaignar_TV.png" group-title="ENTERTAINMENT",KALAIGNAR TV
 http://192.168.1.38:5001/live/1209.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Colors_Tamil.png" group-title="ENTERTAINMENT",COLORS TAMIL
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Colors_Tamil.png" group-title="ENTERTAINMENT",COLORS TAMIL
 http://192.168.1.38:5001/live/1371.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Imayam_TV.png" group-title="ENTERTAINMENT",IMAYAM TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Imayam_TV.png" group-title="ENTERTAINMENT",IMAYAM TV
 http://192.168.1.38:5001/live/1517.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Moon_Tv.png" group-title="ENTERTAINMENT",MOON TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Moon_Tv.png" group-title="ENTERTAINMENT",MOON TV
 http://192.168.1.38:5001/live/1518.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/MK_Six.png" group-title="ENTERTAINMENT",MK SIX
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/MK_Six.png" group-title="ENTERTAINMENT",MK SIX
 http://192.168.1.38:5001/live/1647.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Thanti_One.png" group-title="ENTERTAINMENT",THANTHI ONE
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Thanti_One.png" group-title="ENTERTAINMENT",THANTHI ONE
 http://192.168.1.38:5001/live/3059.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/808.jpg" group-title="ENTERTAINMENT",STAR VIJAY HD
+#EXTINF:-1 tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/808.jpg" group-title="ENTERTAINMENT",STAR VIJAY HD
 http://983528000566990574.ofd1206.xyz:80/live/Pepe1101L/Akkwetdem121/990574.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/810.jpg" group-title="ENTERTAINMENT",ZEE TAMIL HD
+#EXTINF:-1 tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/810.jpg" group-title="ENTERTAINMENT",ZEE TAMIL HD
 http://983528000566990617.ofd1206.xyz:80/live/Pepe1101L/Akkwetdem121/990617.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/834.jpg" group-title="ENTERTAINMENT",VIJAY SUPER-STARSHARE
+#EXTINF:-1 tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/834.jpg" group-title="ENTERTAINMENT",VIJAY SUPER-STARSHARE
 https://starshare.live:443/live/7382837374/5003958588/375317.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/811.jpg" group-title="ENTERTAINMENT",ZEE TAMIL
+#EXTINF:-1 tvg-logo="http://134.119.176.239/stalker_portal/misc/logos/320/811.jpg" group-title="ENTERTAINMENT",ZEE TAMIL
 https://rolextv.asia:443/12345/54321/58530
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/DD5_Podhigai.png" group-title="ENTERTAINMENT",PODHIGAI
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/DD5_Podhigai.png" group-title="ENTERTAINMENT",PODHIGAI
 http://192.168.1.38:5001/live/726.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-lw9AIJORzUrsra6q-xQVGmwo_660GGmOZw8XcyDKmuH1ItzmxcI5wAn&s=10" group-title="ENTERTAINMENT",VIJAY TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-lw9AIJORzUrsra6q-xQVGmwo_660GGmOZw8XcyDKmuH1ItzmxcI5wAn&s=10" group-title="ENTERTAINMENT",VIJAY TV
 https://allinonereborn.com/tatatv.php?id=232257
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",STAR VIJAY 4K
+#EXTINF:-1 group-title="ENTERTAINMENT",STAR VIJAY 4K
 http://ktv.im:8080/44444/44444/82900
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",STAR VIJAY UK
+#EXTINF:-1 group-title="ENTERTAINMENT",STAR VIJAY UK
 https://allinonereborn.com/tatatv.php?id=16798
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",BIGG BOSS 24X7 (TAMIL)
+#EXTINF:-1 group-title="ENTERTAINMENT",BIGG BOSS 24X7 (TAMIL)
 https://allinonereborn.com/tatatv.php?id=58131
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5iQkyABTYOZEuyJsoeTjXr8zuHroboqEYg&usqp=CAU" group-title="ENTERTAINMENT",ZEE THIRAI TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5iQkyABTYOZEuyJsoeTjXr8zuHroboqEYg&usqp=CAU" group-title="ENTERTAINMENT",ZEE THIRAI TV
 https://allinonereborn.com/tatatv.php?id=11756
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",STAR VIJAY USA1
+#EXTINF:-1 group-title="ENTERTAINMENT",STAR VIJAY USA1
 https://allinonereborn.com/tatatv.php?id=8670
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",VIJAY SUPER HD
+#EXTINF:-1 group-title="ENTERTAINMENT",VIJAY SUPER HD
 http://ktv.im:8080/44444/44444/82905
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",VIJAY TAKKAR-ROLEXTV
+#EXTINF:-1 group-title="ENTERTAINMENT",VIJAY TAKKAR-ROLEXTV
 https://rolextv.asia:443/12345/54321/112097
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",VIJAY SUPER
+#EXTINF:-1 group-title="ENTERTAINMENT",VIJAY SUPER
 https://rolextv.asia:443/12345/54321/58536
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",BIG BOSS TAMIL 24/7
+#EXTINF:-1 group-title="ENTERTAINMENT",BIG BOSS TAMIL 24/7
 https://starshare.live:443/live/7382837374/5003958588/408690.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",ZEE TAMIL- STARSHARE
+#EXTINF:-1 group-title="ENTERTAINMENT",ZEE TAMIL- STARSHARE
 https://starshare.live:443/live/7382837374/5003958588/142941.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",STAR VIJAY - ROLEXTV
+#EXTINF:-1 group-title="ENTERTAINMENT",STAR VIJAY - ROLEXTV
 https://rolextv.asia:443/12345/54321/58530
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",ZEE TV - ROLEXTV
+#EXTINF:-1 group-title="ENTERTAINMENT",ZEE TV - ROLEXTV
 https://rolextv.asia:443/12345/54321/58529
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",VIJAY SUPER - ROLEXTV
+#EXTINF:-1 group-title="ENTERTAINMENT",VIJAY SUPER - ROLEXTV
 https://rolextv.asia:443/12345/54321/58536
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/SaiTV.png" group-title="DEVOTIONAL",SAI TV
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/SaiTV.png" group-title="DEVOTIONAL",SAI TV
 http://192.168.1.38:5001/live/937.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/SVBC2.png" group-title="DEVOTIONAL",SVBC2
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/SVBC2.png" group-title="DEVOTIONAL",SVBC2
 http://192.168.1.38:5001/live/1417.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
-http://192.168.1.38:5001/live/569.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/History_18_Tamil.png" group-title="INFOTAINMENT",HISTORY TV18 HD TAMIL
-http://192.168.1.38:5001/live/579.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Animal_Planet_HD_Tamil.png" group-title="INFOTAINMENT",ANIMAL PLANET HD TAMIL
-http://192.168.1.38:5001/live/1219.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/sonic_Tamil.png" group-title="KIDS",SONIC TAMIL
-http://192.168.1.38:5001/live/290.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Pogo_Tamil.png" group-title="KIDS",POGO TAMIL
-http://192.168.1.38:5001/live/542.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Nick_Tamil.png" group-title="KIDS",NICK TAMIL
-http://192.168.1.38:5001/live/546.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Discovery_Kids_Tamil.png" group-title="KIDS",DISCOVERY KIDS TAMIL
-http://192.168.1.38:5001/live/550.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Chutti_TV.png" group-title="KIDS",CHUTTI TV
-http://192.168.1.38:5001/live/557.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Cartoon_Network_Tamil.png" group-title="KIDS",CARTOON NETWORK TAMIL
-http://192.168.1.38:5001/live/817.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/CN_HD_Tamil.png" group-title="KIDS",CN HD+ TAMIL
-http://192.168.1.38:5001/live/1081.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CHITHIRAM - OPPLEX
-http://opplex.tv:8080/tasin7879/tasin7880/380974
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Travel_XP_Tamil.png" group-title="LIFESTYLE",TRAVELXP TAMIL
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Travel_XP_Tamil.png" group-title="LIFESTYLE",TRAVELXP TAMIL
 http://192.168.1.38:5001/live/814.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://192.168.1.38:5001/jtvimage/Ten_4_Tamil.png" group-title="SPORTS",SONY TEN 4 TAMIL
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/sonic_Tamil.png" group-title="KIDS",SONIC TAMIL
+http://192.168.1.38:5001/live/290.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Pogo_Tamil.png" group-title="KIDS",POGO TAMIL
+http://192.168.1.38:5001/live/542.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Nick_Tamil.png" group-title="KIDS",NICK TAMIL
+http://192.168.1.38:5001/live/546.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Discovery_Kids_Tamil.png" group-title="KIDS",DISCOVERY KIDS TAMIL
+http://192.168.1.38:5001/live/550.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Chutti_TV.png" group-title="KIDS",CHUTTI TV
+http://192.168.1.38:5001/live/557.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Cartoon_Network_Tamil.png" group-title="KIDS",CARTOON NETWORK TAMIL
+http://192.168.1.38:5001/live/817.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/CN_HD_Tamil.png" group-title="KIDS",CN HD+ TAMIL
+http://192.168.1.38:5001/live/1081.m3u8
+#EXTINF:-1 group-title="KIDS",CHITHIRAM - OPPLEX
+http://opplex.tv:8080/tasin7879/tasin7880/380974
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Ten_4_Tamil.png" group-title="SPORTS",SONY TEN 4 TAMIL
 https://play.denver1769.in/set2/index.m3u8?id=sony-ten-4-hd|User-Agent=Denver1769
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",STAR SPORTS
-https://starshare.live:443/live/7382837374/5003958588/9722.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SONY TEN - ROLEXTV
+#EXTINF:-1 group-title="SPORTS",STAR SPORTS
+http://b1g.uk:80/191/191/166309
+#EXTINF:-1 group-title="SPORTS",SONY TEN - ROLEXTV
 https://rolextv.asia:443/12345/54321/197417
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",STAR SPORTS 1 -ROLEXTV
+#EXTINF:-1 group-title="SPORTS",STAR SPORTS 1 -ROLEXTV
 https://rolextv.asia:443/12345/54321/109101
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",STAR SPORTS-ROLEX
+#EXTINF:-1 group-title="SPORTS",STAR SPORTS-ROLEX
 https://rolextv.asia:443/12345/54321/109102
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
+http://192.168.1.38:5001/live/569.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/History_18_Tamil.png" group-title="INFOTAINMENT",HISTORY TV18 HD TAMIL
+http://192.168.1.38:5001/live/579.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Animal_Planet_HD_Tamil.png" group-title="INFOTAINMENT",ANIMAL PLANET HD TAMIL
+http://192.168.1.38:5001/live/1219.m3u8
