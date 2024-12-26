@@ -19,10 +19,10 @@ http://b1g.uk:80/191/191/8536
 http://b1g.uk:80/191/191/791602
 #EXTINF:-1 group-title="ASIA",ZEE TAMIL
 http://b1g.uk:80/191/191/789746
-#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d450e67.png" group-title="ASIA",STAR VIJAY HD
-http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=13106&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/867a3aa.png" group-title="ASIA",ZEE TAMILHD
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=13106&deviceMac=00:1A:79:00:05:A3
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/32340db.png" group-title="ASIA",STAR VIJAY HD
+http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=13106&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/J_Movies.png" group-title="MOVIES",J MOVIES
 http://192.168.1.38:5001/live/417.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_Life.png" group-title="MOVIES",SUN LIFE
