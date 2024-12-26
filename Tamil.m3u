@@ -6,15 +6,13 @@ http://192.168.1.38:5001/live/894.m3u8
 #EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d450e67.png" group-title="ASIA",STAR VIJAY
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=13106&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="ASIA",VIJAY SUPER
-http://ww.crzyyng.xyz:8080/Zack001/30.11.2024a/398645
-#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/867a3aa.png"," group-title="ASIA",ZEE TAMIL HD
+http://opplex.tv:8080/tasin7879/tasin7880/380969
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/867a3aa.png" group-title="ASIA",ZEE TAMIL HD
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=13106&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="ASIA",ZEE THIRAI- OPPLEX
 http://opplex.tv:8080/tasin7879/tasin7880/380984
 #EXTINF:-1 group-title="ASIA",VIJAY TAKKAR
 http://b1g.uk:80/191/191/865933
-#EXTINF:-1 group-title="ASIA",STAR VIJAY HD
-http://b1g.uk:80/191/191/8536
 #EXTINF:-1 group-title="ASIA",VIJAY TV
 http://b1g.uk:80/191/191/791602
 #EXTINF:-1 group-title="ASIA",ZEE TAMIL
