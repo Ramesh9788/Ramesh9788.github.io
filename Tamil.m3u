@@ -3,21 +3,19 @@
 http://192.168.1.38:5001/live/896.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/KTV_HD.png" group-title="ASIA",KTV HD
 http://192.168.1.38:5001/live/894.m3u8
-#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d450e67.png" group-title="ASIA",STAR VIJAY
+#EXTINF:-1 group-title="ASIA",STAR VIJAY
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=13106&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="ASIA",VIJAY SUPER
-http://opplex.tv:8080/tasin7879/tasin7880/380969
+http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=10075&deviceMac=00:1A:79:E4:3D:62
 #EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/867a3aa.png" group-title="ASIA",ZEE TAMIL HD
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=13106&deviceMac=00:1A:79:00:05:A3
-#EXTINF:-1 group-title="ASIA",ZEE THIRAI- OPPLEX
-http://opplex.tv:8080/tasin7879/tasin7880/380984
+#EXTINF:-1 group-title="ASIA",ZEE THIRAI
+http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=10075&deviceMac=00:1A:79:E4:3D:62
 #EXTINF:-1 group-title="ASIA",VIJAY TAKKAR
 http://b1g.uk:80/191/191/865933
 #EXTINF:-1 group-title="ASIA",VIJAY TV
-http://b1g.uk:80/191/191/791602
-#EXTINF:-1 group-title="ASIA",ZEE TAMIL
-http://b1g.uk:80/191/191/789746
-#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/867a3aa.png" group-title="ASIA",ZEE TAMILHD
+http://tv.cloudcdn.me:80/live.ts?channelId=43513&uid=10075&deviceMac=00:1A:79:E4:3D:62
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/867a3aa.png" group-title="ASIA",ZEE TAMIL
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=13106&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="ASIA",STAR VIJAY HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=13106&deviceMac=00:1A:79:00:05:A3
