@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Tamil_%282017%29.svg" group-title="ASIA",ZEE TAMIL
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Tamil_%282017%29.svg" group-title="ASIA",ZEE TAMIL
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg" group-title="ASIA",SUN TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg" group-title="ASIA",SUN TV
+http://tv.cloudcdn.me:80/live.ts?channelId=132404&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY
+http://tv.cloudcdn.me:80/live.ts?channelId=132400&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/KTV_India_logo.svg" group-title="ASIA",KTV
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg" group-title="MOVIES",RAJ DIGITAL PLUS
+http://tv.cloudcdn.me:80/live.ts?channelId=43415&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Sun_Music_2017.jpg" group-title="MUSIC",SUN MUSIC
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Raj_Musix_Tamil.jpeg" group-title="MUSIC",RAJ MUSIX
+http://tv.cloudcdn.me:80/live.ts?channelId=43416&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg" group-title="MUSIC",JAYA MAX
+http://tv.cloudcdn.me:80/live.ts?channelId=43410&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/News18_Tamilnadu.jpeg" group-title="NEWS",NEWS 18 TAMILNADU
+http://tv.cloudcdn.me:80/live.ts?channelId=43412&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/News_7_Tamil.jpg" group-title="NEWS",NEWS7 TAMIL
+http://tv.cloudcdn.me:80/live.ts?channelId=43413&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Vendhar_TV.png" group-title="ENTERTAINMENT",VENDHAR TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43422&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png" group-title="ENTERTAINMENT",RAJ TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43417&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Peppers_Tamil.jpg" group-title="ENTERTAINMENT",PEPPERS TV
+http://tv.cloudcdn.me:80/live.ts?channelId=23125&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Colors_Tamil.png" group-title="ENTERTAINMENT",COLORS TAMIL HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="ENTERTAINMENT",PODHIGAI
+http://tv.cloudcdn.me:80/live.ts?channelId=43409&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg" group-title="ENTERTAINMENT",ADITHYA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43404&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg" group-title="KIDS",CHITHIRAM
+http://tv.cloudcdn.me:80/live.ts?channelId=43407&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=275&amp;uid=12304&amp;deviceMac=00:1A:79:50:99:85
