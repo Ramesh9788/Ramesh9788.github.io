@@ -4,45 +4,23 @@ http://192.168.1.38:5001/live/896.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/KTV_HD.png" group-title="ASIA",KTV HD
 http://192.168.1.38:5001/live/894.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY
-http://sansat.co:88/0117264405/0117264405/100153
+http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER
 http://sansat.co:88/0117264405/0117264405/100167
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Tamil_%282017%29.svg" group-title="ASIA",ZEE TAMIL HD
-http://sansat.co:88/0117264405/0117264405/100170
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png" group-title="ASIA",ZEE THIRAI
 http://sansat.co:88/0117264405/0117264405/100171
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/VijayTakkarLogo.webp/768px-VijayTakkarLogo.webp.png?20220922075200" group-title="ASIA",VIJAY TAKKAR
 http://b1g.uk:80/191/191/865933
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Tamil_%282017%29.svg" group-title="ASIA",ZEE TAMIL
-http://sansat.co:88/0117264405/0117264405/100170
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY HD
-http://sansat.co:88/0117264405/0117264405/100153
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Tamil_%282017%29.svg" group-title="ASIA",ZEE TAMIL
-http://sansat.co:88/0117264405/0117264405/100170
+http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY 4K
-http://sansat.co:88/0117264405/0117264405/100153
+http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER HD
 http://sansat.co:88/0117264405/0117264405/100167
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER
-http://sansat.co:88/0117264405/0117264405/100167
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Tamil_%282017%29.svg" group-title="ASIA",ZEE TAMIL
-http://sansat.co:88/0117264405/0117264405/100170
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Tamil_%282017%29.svg" group-title="ASIA",ZEE TAMIL
-http://sansat.co:88/0117264405/0117264405/100170
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY
-http://sansat.co:88/0117264405/0117264405/100153
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY
-http://sansat.co:88/0117264405/0117264405/100153
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY
-http://sansat.co:88/0117264405/0117264405/100153
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER
-http://sansat.co:88/0117264405/0117264405/100167
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Tamil_%282017%29.svg" group-title="ASIA",ZEE TAMIL HD
-http://sansat.co:88/0117264405/0117264405/100170
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Tamil_%282017%29.svg" group-title="ASIA",ZEE TAMIL
-http://sansat.co:88/0117264405/0117264405/100170
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png" group-title="ASIA",ZEE THIRAI
-http://sansat.co:88/0117264405/0117264405/100171
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/J_Movies.png" group-title="MOVIES",J MOVIES
 http://192.168.1.38:5001/live/417.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_Life.png" group-title="MOVIES",SUN LIFE
@@ -172,11 +150,11 @@ https://play.denver1769.in/set2/index.m3u8?id=sony-ten-4-hd|User-Agent=Denver176
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",STAR SPORTS 1 TAMIL
 http://tv.cloudcdn.me:80/live.ts?channelId=89820&amp;uid=10075&amp;deviceMac=00:1A:79:E4:3D:62
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS HD
-http://sansat.co:88/0117264405/0117264405/93731
+http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS HD
-http://sansat.co:88/0117264405/0117264405/93731
+http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS HD
-http://sansat.co:88/0117264405/0117264405/93731
+http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
 http://192.168.1.38:5001/live/569.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/History_18_Tamil.png" group-title="INFOTAINMENT",HISTORY TV18 HD TAMIL
