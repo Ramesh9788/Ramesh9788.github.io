@@ -1,31 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg" group-title="ASIA",SUN TV
-http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg" group-title="ASIA",SUN TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/KTV_India_logo.svg" group-title="ASIA",KTV
-http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg" group-title="MOVIES",RAJ DIGITAL PLUS
-http://tv.cloudcdn.me:80/live.ts?channelId=43415&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Sun_Music_2017.jpg" group-title="MUSIC",SUN MUSIC
-http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Raj_Musix_Tamil.jpeg" group-title="MUSIC",RAJ MUSIX
-http://tv.cloudcdn.me:80/live.ts?channelId=43416&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg" group-title="MUSIC",JAYA MAX
-http://tv.cloudcdn.me:80/live.ts?channelId=43410&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/News_7_Tamil.jpg" group-title="NEWS",NEWS7 TAMIL
-http://tv.cloudcdn.me:80/live.ts?channelId=43413&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/News18_Tamilnadu.jpeg" group-title="NEWS",NEWS 18 TAMILNADU
-http://tv.cloudcdn.me:80/live.ts?channelId=43412&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Vendhar_TV.png" group-title="ENTERTAINMENT",VENDHAR TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43422&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Peppers_Tamil.jpg" group-title="ENTERTAINMENT",PEPPERS TV
-http://tv.cloudcdn.me:80/live.ts?channelId=23125&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png" group-title="ENTERTAINMENT",RAJ TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg" group-title="ENTERTAINMENT",ADITHYA TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Colors_Tamil.png" group-title="ENTERTAINMENT",COLORS TAMIL HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="ENTERTAINMENT",PODHIGAI
-http://tv.cloudcdn.me:80/live.ts?channelId=43409&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV HD
+http://megaott.live:8080/03448609015/Ramzan7237019/55102
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL
+http://megaott.live:8080/03448609015/Ramzan7237019/55086
+#EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/zee-tamil-hd.png" group-title="ASIA",ZEE TAMIL HD
+http://megaott.live:8080/03448609015/Ramzan7237019/55083
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL
+http://megaott.live:8080/03448609015/Ramzan7237019/5003
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV HD
+http://megaott.live:8080/03448609015/Ramzan7237019/104759
+#EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/zee-tamil-hd.png" group-title="ASIA",ZEE TAMIL HD
+http://megaott.live:8080/03448609015/Ramzan7237019/104757
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="ASIA",SUN TV
+http://megaott.live:8080/03448609015/Ramzan7237019/104758
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL
+http://megaott.live:8080/03448609015/Ramzan7237019/91625
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL
+http://megaott.live:8080/03448609015/Ramzan7237019/61745
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV HD
+http://megaott.live:8080/03448609015/Ramzan7237019/48123
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg" group-title="ASIA",SUN TV HD
+http://megaott.live:8080/03448609015/Ramzan7237019/48105
+#EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/zee-tamil-hd.png" group-title="ASIA",ZEE TAMIL HD
+http://megaott.live:8080/03448609015/Ramzan7237019/48102
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="MOVIES",RAJ DIGITAL PLUS
+http://megaott.live:8080/03448609015/Ramzan7237019/48120
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="MUSIC",SUN MUSIC HD
+http://megaott.live:8080/03448609015/Ramzan7237019/55101
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="NEWS",THANTHI TV
+http://megaott.live:8080/03448609015/Ramzan7237019/55092
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="NEWS",NEWS TAMIL 24X7
+http://megaott.live:8080/03448609015/Ramzan7237019/861
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="NEWS",THANTHI TV
+http://megaott.live:8080/03448609015/Ramzan7237019/104763
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="ENTERTAINMENT",VASANTH TV
+http://megaott.live:8080/03448609015/Ramzan7237019/55091
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="ENTERTAINMENT",MAKKAL TV
+http://megaott.live:8080/03448609015/Ramzan7237019/55118
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="ENTERTAINMENT",VASANTH TV
+http://megaott.live:8080/03448609015/Ramzan7237019/48117
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
+http://megaott.live:8080/03448609015/Ramzan7237019/48115
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
+http://megaott.live:8080/03448609015/Ramzan7237019/55122
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 
+http://megaott.live:8080/03448609015/Ramzan7237019/65429
