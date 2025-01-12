@@ -117,10 +117,8 @@ http://192.168.1.38:5001/live/1647.m3u8
 http://192.168.1.38:5001/live/3059.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/DD5_Podhigai.png" group-title="ENTERTAINMENT",PODHIGAI
 http://192.168.1.38:5001/live/726.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-lw9AIJORzUrsra6q-xQVGmwo_660GGmOZw8XcyDKmuH1ItzmxcI5wAn&amp;s=10" group-title="ENTERTAINMENT",VIJAY TV
-https://allinonereborn.com/tatatv.php?id=232257
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",BIGG BOSS 24X7 (TAMIL)
-https://allinonereborn.com/tatatv.php?id=58131
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-lw9AIJORzUrsra6q-xQVGmwo_660GGmOZw8XcyDKmuH1ItzmxcI5wAn&amp;amp;s=10" group-title="ENTERTAINMENT",VIJAY TV
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=281855&extension=ts&play_token=iXt4MLul5g
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",BIG BOSS TAMIL 24/7
 http://tv.cloudcdn.me:80/live.ts?channelId=132411&amp;uid=10075&amp;deviceMac=00:1A:79:E4:3D:62
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/SaiTV.png" group-title="DEVOTIONAL",SAI TV
