@@ -8,7 +8,7 @@ http://sansat.co:88/0117264405/0117264405/100167
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL HD
 http://ktv.im:8080/8373788383/837373773/88270
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png" group-title="ASIA",ZEE THIRAI
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=1526440&extension=ts&play_token=zGXmu0TF3N
+http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=10075&deviceMac=00:1A:79:E4:3D:62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/VijayTakkarLogo.webp/768px-VijayTakkarLogo.webp.png?20220922075200" group-title="ASIA",VIJAY TAKKAR
 http://b1g.uk:80/191/191/865933
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY HD
@@ -23,8 +23,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12304&deviceMac=00:1A:79:5
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL 4K
 http://ktv.im:8080/8373788383/837373773/88270
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png" group-title="ASIA",ZEE THIRAI FHD
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=155912&extension=ts&play_token=JS4AmpgLng
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/J_Movies.png" group-title="MOVIES",J MOVIES
 http://192.168.1.38:5001/live/417.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Sun_Life.png" group-title="MOVIES",SUN LIFE
