@@ -18,9 +18,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12304&deviceMac=00:1A:79:5
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER HD
 http://sansat.co:88/0117264405/0117264405/100167
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=17029&deviceMac=00:1A:79:AB:E0:B4
+http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=4621&deviceMac=00:1A:79:17:BF:CE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=17029&deviceMac=00:1A:79:AB:E0:B4
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4621&deviceMac=00:1A:79:17:BF:CE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL 4K
 http://ktv.im:8080/8373788383/837373773/88270
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/J_Movies.png" group-title="MOVIES",J MOVIES
@@ -120,7 +120,9 @@ http://192.168.1.38:5001/live/726.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-lw9AIJORzUrsra6q-xQVGmwo_660GGmOZw8XcyDKmuH1ItzmxcI5wAn&amp;amp;s=10" group-title="ENTERTAINMENT",VIJAY TV
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=281855&extension=ts&play_token=iXt4MLul5g
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",BIG BOSS TAMIL 24/7
-http://tv.cloudcdn.me:80/live.ts?channelId=132411&uid=14158&deviceMac=00:1A:79:C3:08:AE
+http://tv.cloudcdn.me:80/live.ts?channelId=132411&amp;uid=10075&amp;deviceMac=00:1A:79:E4:3D:62
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",BIGG BOSS 24X7 (TAMIL) FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=78814&uid=4613&deviceMac=00:1A:79:A9:27:C7
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/SaiTV.png" group-title="DEVOTIONAL",SAI TV
 http://192.168.1.38:5001/live/937.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/SVBC2.png" group-title="DEVOTIONAL",SVBC2
@@ -142,7 +144,7 @@ http://192.168.1.38:5001/live/817.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/CN_HD_Tamil.png" group-title="KIDS",CN HD+ TAMIL
 http://192.168.1.38:5001/live/1081.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg" group-title="KIDS",CHITHIRAM 
-http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=17029&deviceMac=00:1A:79:AB:E0:B4
+http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=4621&deviceMac=00:1A:79:17:BF:CE
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 HD
 http://ktv.im:8080/8373788383/837373773/75299
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Ten_4_Tamil.png" group-title="SPORTS",SONY TEN 4 TAMIL
@@ -150,7 +152,7 @@ https://play.denver1769.in/set2/index.m3u8?id=sony-ten-4-hd|User-Agent=Denver176
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 TAMIL
 http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=17029&deviceMac=00:1A:79:AB:E0:B4
+http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=4621&deviceMac=00:1A:79:17:BF:CE
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 
 http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=12304&deviceMac=00:1A:79:50:99:85
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
