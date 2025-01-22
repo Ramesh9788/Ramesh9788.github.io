@@ -11,7 +11,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89823&uid=9395&deviceMac=00:1A:79:E7:
 http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=9395&deviceMac=00:1A:79:E7:81:D9
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg" group-title="ASIA",SUN TV FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=9395&deviceMac=00:1A:79:E7:81:D9
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",VIJAY SUPER HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=9395&deviceMac=00:1A:79:E7:81:D9
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=9395&deviceMac=00:1A:79:E7:81:D9
