@@ -1,43 +1,209 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4621&deviceMac=00:1A:79:17:BF:CE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER HD
+http://opplex.live:8080/movie/dice556/2272200/357555.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY
+http://opplex.live:8080/movie/dice556/2272200/330576.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL HD
+http://opplex.live:8080/dice556/2272200/388815
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV
+http://opplex.live:8080/dice556/2272200/382344
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV
+http://opplex.live:8080/dice556/2272200/382340
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg" group-title="ASIA",SUN TV FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg" group-title="ASIA",SUN TV FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://opplex.live:8080/dice556/2272200/380952
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://opplex.live:8080/dice556/2272200/380961
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg" group-title="ASIA",SUN TV FHD
+http://opplex.live:8080/dice556/2272200/380967
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER
+http://opplex.live:8080/dice556/2272200/380969
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL FHD
+http://opplex.live:8080/dice556/2272200/380970
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png" group-title="ASIA",ZEE THIRAI
+http://opplex.live:8080/dice556/2272200/380984
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="MOVIES",J MOVIES HD
+http://opplex.live:8080/movie/dice556/2272200/358017.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="MOVIES",J MOVIES HD
+http://opplex.live:8080/movie/dice556/2272200/357854.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="MOVIES",J MOVIES HD
+http://opplex.live:8080/movie/dice556/2272200/357738.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="MOVIES",J MOVIES HD
+http://opplex.live:8080/movie/dice556/2272200/357508.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg" group-title="MOVIES",SUN LIFE
+http://opplex.live:8080/dice556/2272200/380968
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="MOVIES",J MOVIES HD
+http://opplex.live:8080/movie/dice556/2272200/358363.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="MOVIES",J MOVIES HD
+http://opplex.live:8080/movie/dice556/2272200/358385.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="MOVIES",J MOVIES HD
+http://opplex.live:8080/movie/dice556/2272200/358371.mkv
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="MOVIES",RAJ DIGITAL PLUS
-http://tv.cloudcdn.me:80/live.ts?channelId=43415&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="MUSIC",RAJ MUSIX
-http://tv.cloudcdn.me:80/live.ts?channelId=43416&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://opplex.live:8080/dice556/2272200/381068
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Music.png" group-title="MUSIC",MK MUSIC
+http://opplex.live:8080/dice556/2272200/382339
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="MUSIC",TUNES 6
+http://opplex.live:8080/dice556/2272200/382341
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="MUSIC",SUN MUSIC FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://opplex.live:8080/dice556/2272200/380953
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="MUSIC",RAJ MUSIX
+http://opplex.live:8080/dice556/2272200/380988
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="MUSIC",JAYA MAX
-http://tv.cloudcdn.me:80/live.ts?channelId=43410&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=43412&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://opplex.live:8080/dice556/2272200/381076
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="NEWS",MADHIMUGAM TV
+http://opplex.live:8080/dice556/2272200/382338
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="NEWS",MALAI MURASU
+http://opplex.live:8080/dice556/2272200/380973
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="NEWS",TAMILAN TELEVISION
+http://opplex.live:8080/dice556/2272200/380976
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="NEWS",JAYA PLUS
+http://opplex.live:8080/dice556/2272200/380980
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="NEWS",RAJ NEWS 24X7
+http://opplex.live:8080/dice556/2272200/380987
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png" group-title="NEWS",SUN NEWS
+http://opplex.live:8080/dice556/2272200/380985
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png" group-title="NEWS",NEWS J
+http://opplex.live:8080/dice556/2272200/381029
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="NEWS",THANTHI TV
+http://opplex.live:8080/dice556/2272200/381012
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="NEWS",NEWS7 TAMIL
-http://tv.cloudcdn.me:80/live.ts?channelId=43413&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="ENTERTAINMENT",VENDHAR TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43422&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://opplex.live:8080/dice556/2272200/381009
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="NEWS",SATHIYAM TV
+http://opplex.live:8080/dice556/2272200/381030
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU
+http://opplex.live:8080/dice556/2272200/381032
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="NEWS",NEWS TAMIL 24X7
+http://opplex.live:8080/dice556/2272200/381055
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="NEWS",POLIMER NEWS
+http://opplex.live:8080/dice556/2272200/381062
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="ENTERTAINMENT",PUTHU YUGAM
+http://opplex.live:8080/movie/dice556/2272200/357975.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV HD
+http://opplex.live:8080/movie/dice556/2272200/357960.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="ENTERTAINMENT",VASANTH TV HD
+http://opplex.live:8080/movie/dice556/2272200/357896.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="ENTERTAINMENT",PUTHU YUGAM
+http://opplex.live:8080/movie/dice556/2272200/357783.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="ENTERTAINMENT",KALAIGNAR TV
+http://opplex.live:8080/movie/dice556/2272200/357726.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="ENTERTAINMENT",KALAIGNAR TV
+http://opplex.live:8080/movie/dice556/2272200/357614.mkv
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="ENTERTAINMENT",PEPPERS TV
-http://tv.cloudcdn.me:80/live.ts?channelId=23125&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="ENTERTAINMENT",PODHIGAI
-http://tv.cloudcdn.me:80/live.ts?channelId=43409&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="ENTERTAINMENT",COLORS TAMIL FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://opplex.live:8080/movie/dice556/2272200/357639.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
+http://opplex.live:8080/movie/dice556/2272200/357664.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="ENTERTAINMENT",KALAIGNAR TV UK
+http://opplex.live:8080/movie/dice556/2272200/357574.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="ENTERTAINMENT",KALAIGNAR TV
+http://opplex.live:8080/movie/dice556/2272200/357533.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
+http://opplex.live:8080/movie/dice556/2272200/357472.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
+http://opplex.live:8080/movie/dice556/2272200/357383.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="ENTERTAINMENT",KALAIGNAR TV
+http://opplex.live:8080/movie/dice556/2272200/357431.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV HD
+http://opplex.live:8080/movie/dice556/2272200/357358.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
+http://opplex.live:8080/movie/dice556/2272200/357378.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
+http://opplex.live:8080/movie/dice556/2272200/357353.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV HD
+http://opplex.live:8080/movie/dice556/2272200/357345.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV HD
+http://opplex.live:8080/movie/dice556/2272200/357307.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="ENTERTAINMENT",KALAIGNAR TV
+http://opplex.live:8080/movie/dice556/2272200/357304.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="ENTERTAINMENT",COLORS TAMIL
+http://opplex.live:8080/dice556/2272200/388808
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="ENTERTAINMENT",COLORS TAMIL
+http://opplex.live:8080/dice556/2272200/388627
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png" group-title="ENTERTAINMENT",VAANAVIL TV
+http://opplex.live:8080/dice556/2272200/380943
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="ENTERTAINMENT",MOON TV
+http://opplex.live:8080/dice556/2272200/380949
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV HD
+http://opplex.live:8080/movie/dice556/2272200/358366.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="ENTERTAINMENT",VASANTH TV HD
+http://opplex.live:8080/movie/dice556/2272200/358456.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="ENTERTAINMENT",KALAIGNAR TV
+http://opplex.live:8080/movie/dice556/2272200/358155.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="ENTERTAINMENT",KALAIGNAR TV
+http://opplex.live:8080/dice556/2272200/380990
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV
+http://opplex.live:8080/dice556/2272200/380989
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="ENTERTAINMENT",POLIMER TV
+http://opplex.live:8080/dice556/2272200/381015
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="ENTERTAINMENT",PUTHU YUGAM
+http://opplex.live:8080/dice556/2272200/381005
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="ENTERTAINMENT",VENDHAR TV
+http://opplex.live:8080/dice556/2272200/381004
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="ENTERTAINMENT",ADITHYA TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://opplex.live:8080/dice556/2272200/380995
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="ENTERTAINMENT",PEPPERS TV
+http://opplex.live:8080/dice556/2272200/381040
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="ENTERTAINMENT",JAYA TV HD
+http://opplex.live:8080/dice556/2272200/381044
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="ENTERTAINMENT",VASANTH TV
+http://opplex.live:8080/dice556/2272200/381046
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="ENTERTAINMENT",JAYA TV FHD
+http://opplex.live:8080/dice556/2272200/381061
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="ENTERTAINMENT",PODHIGAI
+http://opplex.live:8080/dice556/2272200/381065
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="ENTERTAINMENT",MAKKAL TV
+http://opplex.live:8080/dice556/2272200/381067
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg" group-title="KIDS",CHITHIRAM
-http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=4621&deviceMac=00:1A:79:17:BF:CE
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://opplex.live:8080/movie/dice556/2272200/357449.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="KIDS",CARTOON NETWORK TAMIL
+http://opplex.live:8080/dice556/2272200/380956
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="KIDS",POGO TAMIL
+http://opplex.live:8080/dice556/2272200/380964
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg" group-title="KIDS",CHITHIRAM
+http://opplex.live:8080/dice556/2272200/380974
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN HD
+http://opplex.live:8080/dice556/2272200/381019
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chutti_TV.png" group-title="KIDS",CHUTTI TV
+http://opplex.live:8080/dice556/2272200/380997
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1
+http://opplex.live:8080/dice556/2272200/167574
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL 4K
+http://opplex.live:8080/movie/dice556/2272200/357857.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/357914.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/357905.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/357906.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/357902.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
+http://opplex.live:8080/movie/dice556/2272200/357901.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/357828.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/357691.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
+http://opplex.live:8080/movie/dice556/2272200/357716.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/357352.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/357312.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/357273.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
+http://opplex.live:8080/dice556/2272200/382342
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="INFOTAINMENT",ANIMAL PLANET HD
+http://opplex.live:8080/dice556/2272200/380955
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="INFOTAINMENT",HISTORY TV18 FHD
+http://opplex.live:8080/dice556/2272200/380960
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
+http://opplex.live:8080/dice556/2272200/380977
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/358212.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/358174.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
+http://opplex.live:8080/movie/dice556/2272200/358378.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
+http://opplex.live:8080/movie/dice556/2272200/358099.mkv
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL HD
+http://opplex.live:8080/movie/dice556/2272200/358129.mkv
