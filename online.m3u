@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=128778&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=130178&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=130164&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=130128&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=130073&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=129981&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=129859&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=57486&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg" group-title="ASIA",SUN TV FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg" group-title="ASIA",SUN TV FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg" group-title="ASIA",KTV FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="MOVIES",RAJ DIGITAL PLUS 
+http://tv.cloudcdn.me:80/live.ts?channelId=43415&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="MUSIC",RAJ MUSIX 
+http://tv.cloudcdn.me:80/live.ts?channelId=43532&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="MUSIC",RAJ MUSIX 
+http://tv.cloudcdn.me:80/live.ts?channelId=43462&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="MUSIC",SUN MUSIC FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="MUSIC",RAJ MUSIX 
+http://tv.cloudcdn.me:80/live.ts?channelId=43416&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="MUSIC",JAYA MAX 
+http://tv.cloudcdn.me:80/live.ts?channelId=43410&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="MUSIC",SUN MUSIC 
+http://tv.cloudcdn.me:80/live.ts?channelId=128760&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU 8K
+http://tv.cloudcdn.me:80/live.ts?channelId=43529&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=28127&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU 
+http://tv.cloudcdn.me:80/live.ts?channelId=28133&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="NEWS",RAJ NEWS 24X7 
+http://tv.cloudcdn.me:80/live.ts?channelId=43463&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=43412&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="NEWS",NEWS7 TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=43413&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU 
+http://tv.cloudcdn.me:80/live.ts?channelId=47440&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU 
+http://tv.cloudcdn.me:80/live.ts?channelId=61900&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU 
+http://tv.cloudcdn.me:80/live.ts?channelId=61901&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="NEWS",NEWS 18 TAMILNADU FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=28125&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="ENTERTAINMENT",VENDHAR TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=43422&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="ENTERTAINMENT",RAJ TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="ENTERTAINMENT",PEPPERS TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=23125&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="ENTERTAINMENT",PODHIGAI 
+http://tv.cloudcdn.me:80/live.ts?channelId=43409&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="ENTERTAINMENT",COLORS TAMIL FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="ENTERTAINMENT",ADITHYA TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",BIGG BOSS 24X7 (TAMIL) FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=78814&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",BIGG BOSS 24X7 (TAMIL) FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=57&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SaiTV.png" group-title="DEVOTIONAL",SAI TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=132287&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="KIDS",POGO TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="KIDS",CARTOON NETWORK TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=246&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="KIDS",CARTOON NETWORK TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=129789&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=102985&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="KIDS",CARTOON NETWORK TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=129911&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=129920&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="KIDS",CARTOON NETWORK TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=125664&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=46813&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=36105&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=50&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=46798&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=472&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=27942&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=4216&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=128490&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="KIDS",CARTOON NETWORK TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=43450&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg" group-title="KIDS",CHITHIRAM 
+http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="KIDS",CARTOON NETWORK TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=245&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="KIDS",CARTOON NETWORK TAMIL 
+http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=29197&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=128729&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=448&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=352&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=28125&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN HD
+http://tv.cloudcdn.me:80/live.ts?channelId=132477&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN 
+http://tv.cloudcdn.me:80/live.ts?channelId=49404&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KIDS",CN FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=86147&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=49569&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="INFOTAINMENT",ANIMAL PLANET 
+http://tv.cloudcdn.me:80/live.ts?channelId=132146&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="INFOTAINMENT",ANIMAL PLANET 
+http://tv.cloudcdn.me:80/live.ts?channelId=125822&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="INFOTAINMENT",ANIMAL PLANET 
+http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=12304&deviceMac=00:1A:79:50:99:85
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="INFOTAINMENT",ANIMAL PLANET 
+http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=12304&deviceMac=00:1A:79:50:99:85
