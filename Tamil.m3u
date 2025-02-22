@@ -7,8 +7,14 @@ http://192.168.1.34:5001/live/894.m3u8
 http://103.115.126.26:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png" group-title="ASIA",ZEE THIRAI
 http://103.115.126.26:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png" group-title="ASIA",ZEE THIRAI HD
+http://103.115.126.26:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL
 http://103.115.126.26:8000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/VijayTakkarLogo.webp/768px-VijayTakkarLogo.webp.png" group-title="ASIA",VIJAY TAKKAR
+http://103.115.126.26:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER HD
+http://103.115.126.26:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL FHD
 http://103.115.126.26:8000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL HD
@@ -136,13 +142,15 @@ http://192.168.1.34:5001/live/1081.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg" group-title="KIDS",CHITHIRAM 
 http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=4621&deviceMac=00:1A:79:17:BF:CE
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 HD
-http://103.115.126.26:8000/play/a037/index.m3u8
+http://103.115.126.26:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Ten_4_Tamil.png" group-title="SPORTS",SONY TEN 4 TAMIL
 https://play.denver1769.in/set2/index.m3u8?id=sony-ten-4-hd|User-Agent=Denver1769
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 TAMIL
-http://supersonictv.live:8080/959675/565364/85652
+http://103.115.126.26:8000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
+http://103.115.126.26:8000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 
-http://supersonictv.live:8080/959675/565364/85652
+http://103.115.126.26:8000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.34:5001/jtvimage/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
 http://192.168.1.34:5001/live/569.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.34:5001/jtvimage/History_18_Tamil.png" group-title="INFOTAINMENT",HISTORY TV18 HD TAMIL
