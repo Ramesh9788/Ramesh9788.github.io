@@ -4,19 +4,15 @@ http://192.168.1.34:5001/live/896.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.34:5001/jtvimage/KTV_HD.png" group-title="ASIA",KTV HD
 http://192.168.1.34:5001/live/894.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER
-http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=9395&deviceMac=00:1A:79:E7:81:D9
+http://103.115.126.26:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png" group-title="ASIA",ZEE THIRAI
-http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=9395&deviceMac=00:1A:79:E7:81:D9
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY HD
-http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY 4K
-http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=9395&deviceMac=00:1A:79:E7:81:D9
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://103.115.126.26:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL
+http://103.115.126.26:8000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://103.115.126.26:8000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL HD
+http://103.115.126.26:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.34:5001/jtvimage/J_Movies.png" group-title="MOVIES",J MOVIES
 http://192.168.1.34:5001/live/417.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.34:5001/jtvimage/Sun_Life.png" group-title="MOVIES",SUN LIFE
@@ -140,15 +136,13 @@ http://192.168.1.34:5001/live/1081.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg" group-title="KIDS",CHITHIRAM 
 http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=4621&deviceMac=00:1A:79:17:BF:CE
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 HD
-http://ktv.im:8080/8373788383/837373773/75299
+http://103.115.126.26:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.38:5001/jtvimage/Ten_4_Tamil.png" group-title="SPORTS",SONY TEN 4 TAMIL
 https://play.denver1769.in/set2/index.m3u8?id=sony-ten-4-hd|User-Agent=Denver1769
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 TAMIL
-http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=12304&deviceMac=00:1A:79:50:99:85
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://supersonictv.live:8080/959675/565364/85652
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=12304&deviceMac=00:1A:79:50:99:85
+http://supersonictv.live:8080/959675/565364/85652
 #EXTINF:-1 tvg-logo="http://192.168.1.34:5001/jtvimage/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
 http://192.168.1.34:5001/live/569.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.34:5001/jtvimage/History_18_Tamil.png" group-title="INFOTAINMENT",HISTORY TV18 HD TAMIL
