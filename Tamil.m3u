@@ -4,31 +4,31 @@ http://192.168.1.35:5001/live/896.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.35:5001/jtvimage/KTV_HD.png" group-title="ASIA",KTV HD
 http://192.168.1.35:5001/live/894.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=281855&extension=ts&play_token=iXt4MLul5g
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277094
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=155875&extension=ts&play_token=frhrOh2PbQ
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277101
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png" group-title="ASIA",ZEE THIRAI
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=1526440&extension=ts&play_token=zGXmu0TF3N
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277123
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=281855&extension=ts&play_token=iXt4MLul5g
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277094
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY 4K
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=281855&extension=ts&play_token=iXt4MLul5g
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277094
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png" group-title="ASIA",VIJAY SUPER HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=155875&extension=ts&play_token=frhrOh2PbQ
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277101
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL
-http://ktv.im:8080/8373788383/837373773/88270
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277116
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" group-title="ASIA",STAR VIJAY FHD
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=281855&extension=ts&play_token=iXt4MLul5g
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277094
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL FHD
-http://ktv.im:8080/8373788383/837373773/88270
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277116
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL HD
-http://ktv.im:8080/8373788383/837373773/88270
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277116
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL SD
-http://ktv.im:8080/8373788383/837373773/88270
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277116
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="ASIA",ZEE TAMIL 4K
-http://ktv.im:8080/8373788383/837373773/88270
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277116
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png" group-title="ASIA",ZEE THIRAI FHD
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=155912&extension=ts&play_token=JS4AmpgLng
+http://goldv3.me:80/televes24_624932/RGQyEwe1/277123
 #EXTINF:-1 tvg-logo="http://192.168.1.35:5001/jtvimage/J_Movies.png" group-title="MOVIES",J MOVIES
 http://192.168.1.35:5001/live/417.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.35:5001/jtvimage/Sun_Life.png" group-title="MOVIES",SUN LIFE
@@ -143,16 +143,6 @@ http://192.168.1.35:5001/live/557.m3u8
 http://192.168.1.35:5001/live/817.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.35:5001/jtvimage/CN_HD_Tamil.png" group-title="KIDS",CN HD+ TAMIL
 http://192.168.1.35:5001/live/1081.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg" group-title="KIDS",CHITHIRAM 
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=1526442&extension=ts&play_token=2s9bgFaFku
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 HD
-http://ktv.im:8080/8373788383/837373773/75299
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 TAMIL
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=155873&extension=ts&play_token=2ufo0pw4Nt
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 FHD
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=155873&extension=ts&play_token=2ufo0pw4Nt
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="SPORTS",STAR SPORTS 1 
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:24:80:35&stream=155873&extension=ts&play_token=2ufo0pw4Nt
 #EXTINF:-1 tvg-logo="http://192.168.1.35:5001/jtvimage/Discovery_Channel_Tamil.png" group-title="INFOTAINMENT",D TAMIL
 http://192.168.1.35:5001/live/569.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.1.35:5001/jtvimage/History_18_Tamil.png" group-title="INFOTAINMENT",HISTORY TV18 HD TAMIL
